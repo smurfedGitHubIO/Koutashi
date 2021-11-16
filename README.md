@@ -1,3 +1,3 @@
 # Koutashi
 
-> A manga progress checker but is still under lots of progress.
+> A manga progress checker that is still under lots of progress.
